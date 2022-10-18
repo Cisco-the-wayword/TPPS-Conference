@@ -40,7 +40,7 @@ body {
   width: 20px;
   margin-left: 10px;
   height: 2px;
-  border: 0px solid #d3d3d3;
+  border: 0 solid #d3d3d3;
   background: #d3d3d3;
 }
 
@@ -250,7 +250,6 @@ body {
 footer {
   display: none;
 }
-
 
 .nav-menu {
   display: none;
