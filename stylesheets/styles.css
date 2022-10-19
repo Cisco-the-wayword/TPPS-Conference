@@ -19,7 +19,7 @@ body {
 .header {
   width: 100%;
   background-size: cover;
-  background-image: url("images/hero.png");
+  background-image: url("../images/background/hero.png");
   padding-bottom: 30%;
 }
 
@@ -48,7 +48,7 @@ body {
   font-size: 18px;
   color: #ec5242;
   text-decoration: none;
-  background-image: url("images/orange.jpg");
+  background: url("../images/background/orange.jpg");
   -webkit-text-fill-color: #ec5242;
   background-clip: unset;
   -webkit-background-clip: text;
@@ -84,7 +84,7 @@ body {
 }
 
 .main-program {
-  background-image: url("images/black-background.jpg");
+  background-image: url("../images/black-background.jpg");
   width: 100%;
   background-size: cover;
   text-align: center;
@@ -178,7 +178,7 @@ body {
 }
 
 .speaker {
-  background-image: url("images/chess.jpg");
+  background-image: url("../images/background/chess.jpg");
   background-size: 12%;
   background-position-x: 1%;
   background-position-y: 2%;
@@ -448,7 +448,7 @@ footer {
 
   .speaker {
     width: 40%;
-    background-image: url("images/chess-desktop.png");
+    background-image: url("../images/background/chess-desktop.png");
     background-position-y: 8px;
     background-position-x: 2px;
     padding: 0.5%;
