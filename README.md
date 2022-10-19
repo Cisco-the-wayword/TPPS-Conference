@@ -2,15 +2,12 @@
 
 # TPPS Conference (Microverse captsone 1)
 
-> This website (purely fictional) is 
+> This website (purely fictional) is to raise awareness for a developers' program aimed at supporting programmers all over the world.
 - Homepage             
-![](images/capstone-desktop.png.png)
+![](images/capstone-desktop.png)
 - About Page
 ![](images/capstone-about-desktop.png)
-- Mobile Homepage
-![](images/capstone-mobile.png)
-- Mobile About Page
-![](images/capstone-about-mobile.png)
+
 
 
 ## Built With
@@ -22,7 +19,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://cisco-the-wayword.github.io/TPPS-Conference/)
 
 
 To get a local copy up and running follow these simple example steps.
