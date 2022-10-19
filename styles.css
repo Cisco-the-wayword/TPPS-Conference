@@ -46,7 +46,7 @@ body {
 
 .logo {
   font-size: 18px;
-  color: var(--orange);
+  color: #ec5242;
   text-decoration: none;
   background-image: url("images/orange.jpg");
   -webkit-text-fill-color: #ec5242;
