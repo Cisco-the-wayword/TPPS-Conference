@@ -2,7 +2,7 @@
 
 # TPPS Conference (Microverse captsone 1)
 
-> This website (purely fictional) is to raise awareness for a developers' program aimed at supporting programmers all over the world.
+> This website (purely fictional) is a landing page for the TPPS Community to raise awareness for a developers' program aimed at supporting programmers all over the world.
 - Homepage             
 ![](images/capstone-desktop.png)
 - About Page
